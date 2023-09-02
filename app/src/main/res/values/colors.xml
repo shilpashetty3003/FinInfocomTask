@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_200">#fafafa</color>
+    <color name="white_500">#ffffff</color>
+    <color name="white_700">#c7c7c7</color>
+    <color name="white_900">#A9A5A5</color>
+    <color name="red_200">#F4215E</color>
+    <color name="red_700">#C70039</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="secondaryLightColor">#ff5c8d</color>
+    <color name="blue">#0746E8</color>
+
+</resources>

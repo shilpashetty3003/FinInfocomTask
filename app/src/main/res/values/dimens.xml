@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="light_corner_cuts">18dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="create_user_screen_margin">16dp</dimen>
+    <dimen name="item_margin_text">16dp</dimen>
+
+
+</resources>

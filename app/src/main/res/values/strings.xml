@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FinInfocom</string>
+    <string name="lbl_email">Enter Username</string>
+    <string name="lbl_password">Enter Password</string>
+    <string name="lbl_dont_account">Dont have an account? </string>
+    <string name="lbl_signUp">Sign Up</string>
+    <string name="lbl_first_name">First Name</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_last_name">Last Name</string>
+    <string name="lbl_confirm_pwd">Confirm Password</string>
+    <string name="invalid_message">Invalid Username and Password</string>
+    <string name="successfully_login">Successfully Login</string>
+    <string name="successfully_signIn">Successfully Register</string>
+    <string name="name_null">Please enter first name and last name</string>
+    <string name="username_null">Please enter username and password</string>
+    <string name="username_password_length">Username must be 10 characters and Password must be 7 Characters</string>
+    <string name="password_uppercase">Password must contain atleast 1 uppercase</string>
+    <string name="password_validation">Password must contain 1 UpperCase Alphabet and 1Special Character and Numeric</string>
+    <string name="pwd_equals_confirm">Password and Confirm Password must be  same</string>
+    <string name="add_user">Add Pet</string>
+    <string name="age">Age</string>
+    <string name="user_s_name">Name</string>
+    <string name="city">City</string>
+    <string name="name_error">Name cannot be empty</string>
+    <string name="age_error">Age cannot be empty</string>
+    <string name="city_error">City cannot be empty</string>
+    <string name="user_add">User Added</string>
+
+</resources>
