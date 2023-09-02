@@ -76,6 +76,8 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
                 dialog.dismiss()
             } else {
                 toast(isValid)
+            }
+
 
         }
 
